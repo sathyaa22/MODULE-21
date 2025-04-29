@@ -1,5 +1,5 @@
 # EX 3B Hamiltonian Circuit Problem
-## DATE: 27.04.2025
+## DATE: 22.04.2025
 ## AIM:
 To write a python program to check whether Hamiltonian path exits in the given graph.
 
